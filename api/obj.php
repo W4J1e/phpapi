@@ -8,8 +8,8 @@
 
     <title>实时疫情图</title>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/w4j1e/blog@master/js/yqdt/echarts.min.js"></script>
-    <script src="https://www.makeapie.com/dep/echarts/map/js/world.js"></script>
-    <script src="https://www.makeapie.com/dep/echarts/map/js/china.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/w4j1e/blog@master/js/yqdt/world.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/w4j1e/blog@master/js/yqdt/china.js"></script>
 
     <style>
         body {
@@ -138,7 +138,7 @@
     <div class="info" id="cninfo">
         <div>
             <p>现存确诊</p>
-            <p style="color: rgb(247, 76, 49);">1814</p>
+            <p style="color: rgb(247, 76, 49);">1815</p>
         </div>
         <div>
             <p>境外输入</p>
