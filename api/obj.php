@@ -130,7 +130,6 @@
 
 <body>
 <div>
-    <div class="title">2021新冠实时疫情图</div>
     <div class="tab">
         <button onclick="showcn(this)" id="btn-cn" class="button btn-active">中国</button>
         <button onclick="showworld(this)" id="btn-world" class="button">全球</button>
