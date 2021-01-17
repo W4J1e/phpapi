@@ -7,9 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <title>实时疫情图</title>
-    <script type="text/javascript" src="https://www.lovestu.com/api/project/cnmapyinqing/static/echarts.min.js"></script>
-    <script src="https://www.makeapie.com/dep/echarts/map/js/world.js"></script>
-    <script src="https://www.makeapie.com/dep/echarts/map/js/china.js"></script>
+    <script type="text/javascript" src="static/echarts.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/w4j1e/blog@master/js/yqdt/world.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/w4j1e/blog@master/js/yqdt/china.js"></script>
     <style>
         body {
             height: 800px;
